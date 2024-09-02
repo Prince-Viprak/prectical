@@ -5,3 +5,8 @@ class Demo1
     print('prince');
   }
 }
+class demo2 {
+  void printnewtdata() {
+    print("new data prince");
+  }
+}
