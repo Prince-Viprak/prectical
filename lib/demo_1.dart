@@ -1,21 +1,12 @@
-class Demo1
-{
-  void printing()
-  {
-    print('prince');
-  }
-}
+import 'package:flutter/material.dart';
 
-class Demo2
-{
-  void printing()
-  {
-    print('rawal');
-  }
+class Demo1 extends StatelessWidget {
+  const Demo1({super.key});
 
-  void addMethod()
-  {
-    int a=0;
-    a++;
+  @override
+  Widget build(BuildContext context) {
+    return const Scaffold(
+      body: Text('Prince'),
+    );
   }
 }
