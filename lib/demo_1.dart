@@ -5,3 +5,11 @@ class Demo1
     print('prince');
   }
 }
+
+class Demo2
+{
+  void printing()
+  {
+    print('rawal');
+  }
+}
