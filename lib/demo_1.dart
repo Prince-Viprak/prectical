@@ -12,4 +12,10 @@ class Demo2
   {
     print('rawal');
   }
+
+  void addMethod()
+  {
+    int a=0;
+    a++;
+  }
 }
